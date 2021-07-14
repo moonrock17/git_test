@@ -1,0 +1,1 @@
+This is moonrock's first git project!
